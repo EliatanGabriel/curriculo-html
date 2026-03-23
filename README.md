@@ -12,7 +12,7 @@ O objetivo deste projeto é apresentar minhas informações profissionais de for
 
 ## 🌐 Projeto online
 
-Acesse aqui:
+Acesse aqui: https://eliatangabriel.github.io/curriculo-html/
 
 
 ## 💻 Como visualizar o projeto
