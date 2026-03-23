@@ -13,7 +13,7 @@ O objetivo deste projeto é apresentar minhas informações profissionais de for
 ## 🌐 Projeto online
 
 Acesse aqui:
-https://seu-usuario.github.io/curriculo-html/
+
 
 ## 💻 Como visualizar o projeto
 
@@ -26,9 +26,6 @@ Praticar:
 - Estruturação com HTML semântico
 - Organização de conteúdo profissional
 - Criação de páginas estáticas
-
-## Link do projeto:
-
 
 ---
 
